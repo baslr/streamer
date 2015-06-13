@@ -22,7 +22,7 @@
   "devDependencies": {
     "coffee-script": ">=1.9.2"
   },
-  "main": "./Streamer.js",
+  "main": "./streamer.js",
   "homepage": "http://github.com/baslr/streamer/",
   "engines": {
     "node": ">=0.12.x"
